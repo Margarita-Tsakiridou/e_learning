@@ -1,0 +1,6 @@
+default:
+  staff_counts: "./1.input/06_Staff Counts 30 Sep 2023.xlsx"
+  cop: "./1input/codeofpractice Introduction to the Code of Practice for Statistics.xlsx"
+  qsig: "./1input/QualityStats Quality Statistics in Government.xlsx"
+  date: "2023-09-30"
+
